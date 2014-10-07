@@ -22,6 +22,5 @@ Usage example:
     {
         return true;
     }
-
  }
  </pre></code>
